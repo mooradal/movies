@@ -5,7 +5,6 @@ import Main from './Main';
 import Footer from './Footer';
 import Video from './Video';
 import './style.css';
-import Popup from './Popup'
 
 class App extends Component {
 	render() {

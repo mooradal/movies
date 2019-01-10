@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Item from './Item';
-import Popup from './Popup';
 import movies from '../movies';
 
 class Main extends Component {

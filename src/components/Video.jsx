@@ -7,7 +7,7 @@ function Video({match}) {
 		<div className='container'>
 			<div className='video-container'>
 				<div className='loading'></div>
-				<iframe title='Something' src={data.url} frameborder="0" allowFullScreen></iframe>
+				<iframe title='Something' src={data.url} frameborder="0" allowFullScreen scrolling='no'></iframe>
 			</div>
 			<div className='video-info'>
 				<h1>{data.title}</h1>

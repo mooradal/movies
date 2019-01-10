@@ -3,7 +3,7 @@ var movies = [{
 	'img': 'https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_.jpg',
 	'year': 2018,
 	'title': 'Venom',
-	'url': 'https://abc.com',
+	'url': 'http://entervideo.net/watch/83f0c8c9235028d',
 	'genre': ['Action', 'Sci-Fi'],
 	'rating': 6.8
 },
@@ -12,7 +12,7 @@ var movies = [{
 	'img': 'https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg',
 	'year': 2018,
 	'title': 'Black Panther',
-	'url': 'https://abc.com',
+	'url': 'http://entervideo.net/watch/582c9b1b782d663',
 	'genre': ['Action', 'Adventure', 'Sci-Fi'],
 	'rating': 7.4
 },
@@ -30,7 +30,7 @@ var movies = [{
 	'img': 'https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg',
 	'year': 2018,
 	'title': 'Avengers: Infinity War',
-	'url': 'https://abc.com',
+	'url': 'http://entervideo.net/watch/19f9823b891b4b2',
 	'genre': ['Action', 'Adventure', 'Fantasy', 'Sci-Fi'],
 	'rating': 8.5
 },
@@ -39,7 +39,7 @@ var movies = [{
 	'img': 'https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg',
 	'year': 2018,
 	'title': 'Deadpool 2',
-	'url': 'https://abc.com',
+	'url': 'http://entervideo.net/watch/99d7f925db3f155',
 	'genre': ['Action', 'Adventure', 'Comedy', 'Sci-Fi'],
 	'rating': 7.8
 },
@@ -48,7 +48,7 @@ var movies = [{
 	'img': 'https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg',
 	'year': 2016,
 	'title': 'Deadpool',
-	'url': 'https://abc.com',
+	'url': 'http://entervideo.net/watch/fbfb9651de15d86',
 	'genre': ['Action', 'Adventure', 'Comedy', 'Sci-Fi'],
 	'rating': 8.0
 },
